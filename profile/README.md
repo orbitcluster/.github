@@ -17,7 +17,7 @@
 ## 📈 Platform Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orbitcluster&theme=react-dark&hide_border=true&area=true" alt="OrbitCluster Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilipsamanta&theme=react-dark&hide_border=true&area=true" alt="OrbitCluster Activity Graph" />
 </div>
 
 ---
@@ -151,6 +151,17 @@ The building blocks of our CI/CD pipeline:
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by the OrbitCluster Platform Engineering Team</sub>
+---
+
+## 🏆 Top Contributors
+
+Thanks to these wonderful people who contribute to our platform:
+
+<a href="https://github.com/orbitcluster/oc-python-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=orbitcluster/oc-python-template" />
+</a>
+<a href="https://github.com/orbitcluster/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=orbitcluster/.github" />
+</a>
+
 </div>
