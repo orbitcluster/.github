@@ -1,5 +1,7 @@
 <div align="center">
 
+![OrbitCluster Banner](orbitcluster_banner.png)
+
 # OrbitCluster CI/CD Platform
 
 ### Accelerating Software Delivery with Automated Excellence
@@ -8,6 +10,14 @@
 [![Security](https://img.shields.io/badge/Security-First-red?style=for-the-badge&logo=shield)](https://github.com/orbitcluster)
 [![Quality](https://img.shields.io/badge/Code-Quality-green?style=for-the-badge&logo=sonarqube)](https://github.com/orbitcluster)
 
+</div>
+
+---
+
+## 📈 Platform Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orbitcluster&theme=react-dark&hide_border=true&area=true" alt="OrbitCluster Activity Graph" />
 </div>
 
 ---
